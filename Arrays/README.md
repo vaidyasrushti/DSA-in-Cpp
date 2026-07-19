@@ -2,19 +2,28 @@
 
 ## ✅ Topics Covered
 
-- Sorted Check
+- Traversal
+- Sum of Array
+- Average of Array
+- Maximum Element
+- Minimum Element
+- Count Positive, Negative & Zero
+- Second Largest Element
+- Reverse Array
+- Reverse Array by Swapping
+- Linear Search
+
+## 🔄 Next Topics
+
+- Sorted or Not
 - Frequency Count
 - Binary Search
 - First Occurrence
 - Last Occurrence
-- Reverse Array
 - Left Rotate
 - Right Rotate
 - Remove Duplicates
 - Union
-
-## 🔄 Next Topics
-
 - Intersection
 - Missing Number
 - Pair Sum
@@ -25,4 +34,5 @@
 
 ## 📈 Progress
 
-Completed: 10/17
+Completed: 10/26
+
