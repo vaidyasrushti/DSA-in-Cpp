@@ -12,11 +12,6 @@
 - [x] Reverse Array
 - [x] Reverse by Swapping
 - [x] Linear Search
-
----
-
-## ⏳ Next Topics
-
 - [ ] Sorted or Not
 - [ ] Frequency Count
 - [ ] Binary Search
@@ -24,6 +19,10 @@
 - [ ] Last Occurrence
 - [ ] Left Rotate
 - [ ] Right Rotate
+---
+
+## ⏳ Next Topics
+
 - [ ] Remove Duplicates
 - [ ] Union
 - [ ] Intersection
