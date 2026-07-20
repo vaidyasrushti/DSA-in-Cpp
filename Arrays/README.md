@@ -12,13 +12,13 @@
 - [x] Reverse Array
 - [x] Reverse by Swapping
 - [x] Linear Search
-✅ Sorted Check
-✅ Frequency Count
-✅ Binary Search
-✅ First Occurrence
-✅ Last Occurrence
-✅ Left Rotate
-✅ Right Rotate
+- [x] Sorted Check
+- [x] Frequency Count
+- [x] Binary Search
+- [x] First Occurrence
+- [x] Last Occurrence
+- [x] Left Rotate
+- [x] Right Rotate
 ---
 
 ## ⏳ Next Topics
